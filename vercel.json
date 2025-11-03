@@ -1,0 +1,5 @@
+﻿{
+  "buildCommand": "pip install -r requirements.txt",
+  "outputDirectory": ".",
+  "framework": "python"
+}
